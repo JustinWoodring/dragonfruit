@@ -2,7 +2,7 @@
   <h1>dragonfruit</h1>
   <p><strong>Small presentation components for Zig command-line tools</strong>: readable ANSI styles, status markers, progress bars, percentages, and frame-based spinners without a TUI runtime.</p>
   <p>
-    <a href="https://github.com/JustinWoodring/dragonfruit/actions"><img src="https://img.shields.io/badge/zig-0.16.0-f7a41d" alt="Zig 0.16.0"></a>
+    <a href="https://github.com/JustinWoodring/dragonfruit/actions"><img src="https://img.shields.io/badge/zig-0.17.0-f7a41d" alt="Zig 0.17.0"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT"></a>
     <a href="https://github.com/JustinWoodring/dragonfruit/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
   </p>
@@ -90,7 +90,7 @@ machine-readable output should bypass these presentation helpers.
 
 ## Development
 
-Requirements: Zig 0.16.0 or newer.
+Requirements: Zig 0.17.0 or newer.
 
 ```sh
 zig build test

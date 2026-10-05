@@ -4,7 +4,7 @@ Thanks for improving dragonfruit. Keep changes focused on predictable, line-orie
 
 ## Getting set up
 
-Requirements: Zig 0.16.0 or newer.
+Requirements: Zig 0.17.0 or newer.
 
 ```sh
 git clone https://github.com/JustinWoodring/dragonfruit
